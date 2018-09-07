@@ -1,0 +1,445 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vospit.000webhostapp.com" resolutions="1x" timestamp="1536305370646">
+  <folder name="css">
+    <file name="site_global.css" crc="291078254"/>
+    <file name="master_______-a.css" crc="3971642355" ref="информация:для-родителей:рекомендации:новости:методическая-копилка:фотоальбом:наши-достижения:наша-группа:обратная-связь:index:отзывы"/>
+    <file name="__________1.css" crc="4161990338" ref="информация"/>
+    <file name="___-_________.css" crc="3882854037" ref="для-родителей"/>
+    <file name="____________.css" crc="4161990338" ref="рекомендации"/>
+    <file name="_______.css" crc="4161990338" ref="новости"/>
+    <file name="____________-_______.css" crc="4161990338" ref="методическая-копилка"/>
+    <file name="__________.css" crc="136769238" ref="фотоальбом"/>
+    <file name="____-__________.css" crc="4161990338" ref="наши-достижения"/>
+    <file name="____-______.css" crc="4007802123" ref="наша-группа"/>
+    <file name="________-_____.css" crc="4055759412" ref="обратная-связь"/>
+    <file name="index.css" crc="225394347" ref="index"/>
+    <file name="______.css" crc="4151477301" ref="отзывы"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="museutils.js" crc="4216313831" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="museconfig.js" crc="474374037" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="webpro.js" crc="4143865194" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="touchswipe.js" crc="4200445185" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="phone>index:phone>обратная-связь:index:обратная-связь"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="require.js" crc="3951022091" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="form_check.php" crc="154010282" ref="phone>обратная-связь:обратная-связь"/>
+    <file name="form_throttle.php" crc="266437015" ref="phone>обратная-связь:обратная-связь"/>
+    <file name="form_process.php" crc="512629711" ref="phone>обратная-связь:обратная-связь"/>
+    <file name="form-u14301.php" crc="3901010092" ref="phone>обратная-связь"/>
+    <file name="form-u878.php" crc="4041389474" ref="обратная-связь"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u12868-4.png" crc="3865278251" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12819-4.png" crc="4256021489" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u12807.png" crc="4286877711" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12807-m.png" crc="4137564322" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12814.png" crc="437184820" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12814-m.png" crc="271548857" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12831-4.png" crc="4247244133" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12855-4.png" crc="255633695" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12841.png" crc="3908899387" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12841-m.png" crc="4059892976" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12847.png" crc="509349242" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12847-m.png" crc="3805473717" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12859-4.png" crc="1916493" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12825-4.png" crc="4095332793" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="u12874-4.png" crc="4009241795" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы"/>
+    <file name="мама-u18369-fr.png" crc="3784993705" ref="phone>index"/>
+    <file name="u18368-6.png" crc="348529973" ref="phone>index"/>
+    <file name="u18828-10.png" crc="296951917" ref="phone>index"/>
+    <file name="фон444.jpg" crc="22922612" seo="true" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы">
+      <caption webpage="информация" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="рекомендации" alt=""/>
+      <caption webpage="наши-достижения" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="методическая-копилка" alt=""/>
+      <caption webpage="наша-группа" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="обратная-связь" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="для-родителей" alt=""/>
+    </file>
+    <file name="фон555.jpg" crc="282601499" seo="true" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы">
+      <caption webpage="информация" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="рекомендации" alt=""/>
+      <caption webpage="наши-достижения" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="методическая-копилка" alt=""/>
+      <caption webpage="наша-группа" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="обратная-связь" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="для-родителей" alt=""/>
+    </file>
+    <file name="фон222.jpg" crc="4186727937" seo="true" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы">
+      <caption webpage="информация" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="рекомендации" alt=""/>
+      <caption webpage="наши-достижения" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="методическая-копилка" alt=""/>
+      <caption webpage="наша-группа" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="обратная-связь" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="для-родителей" alt=""/>
+    </file>
+    <file name="фон333.jpg" crc="167056539" seo="true" ref="phone>index:phone>наша-группа:phone>фотоальбом:phone>новости:phone>методическая-копилка:phone>для-родителей:phone>рекомендации:phone>информация:phone>наши-достижения:phone>обратная-связь:phone>отзывы:index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы">
+      <caption webpage="информация" alt=""/>
+      <caption webpage="новости" alt=""/>
+      <caption webpage="рекомендации" alt=""/>
+      <caption webpage="наши-достижения" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="методическая-копилка" alt=""/>
+      <caption webpage="наша-группа" alt=""/>
+      <caption webpage="отзывы" alt=""/>
+      <caption webpage="обратная-связь" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="для-родителей" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:phone>фотоальбом:index:фотоальбом"/>
+    <file name="u18372.png" crc="3973778608" ref="phone>index"/>
+    <file name="u18372-r.png" crc="3973778608" ref="phone>index"/>
+    <file name="u18372-m.png" crc="3889439426" ref="phone>index"/>
+    <file name="u18372-a.png" crc="4010529169" ref="phone>index"/>
+    <file name="u18378.png" crc="262139681" ref="phone>index"/>
+    <file name="u18378-r.png" crc="262139681" ref="phone>index"/>
+    <file name="u18378-m.png" crc="293815624" ref="phone>index"/>
+    <file name="u18378-a.png" crc="188128131" ref="phone>index"/>
+    <file name="u18377-10.png" crc="4080880464" ref="phone>index"/>
+    <file name="u18380.png" crc="22865179" ref="phone>index"/>
+    <file name="u18380-r.png" crc="22865179" ref="phone>index"/>
+    <file name="u18380-m.png" crc="4075088346" ref="phone>index"/>
+    <file name="u18380-a.png" crc="397974821" ref="phone>index"/>
+    <file name="1-crop-u18402.png" crc="461133044" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2-crop-u18388.jpg" crc="3859910445" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u18406.png" crc="3864074476" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4236x329.png" crc="4209247734" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5-crop-u18394.png" crc="479242083" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u18404.jpg" crc="3858470707" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7-crop-u18390.png" crc="436287623" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8-crop-u18386.png" crc="4290518163" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9-crop-u18400.jpg" crc="3907486878" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10-crop-u18396.png" crc="3936347628" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11236x290.png" crc="4019775135" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12133x173.png" crc="3762597246" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u13869-4.png" crc="149870303" ref="phone>наша-группа"/>
+    <file name="u13875-4.png" crc="357982616" ref="phone>наша-группа"/>
+    <file name="u13872-4.png" crc="251209307" ref="phone>наша-группа"/>
+    <file name="u13897-4.png" crc="467992322" ref="phone>фотоальбом"/>
+    <file name="u13898-4.png" crc="4049920249" ref="phone>фотоальбом"/>
+    <file name="фффффффффффоннннанаа-crop-u13902.jpg" crc="388017648" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="обратная свщь272x193.jpg" crc="3832632077" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннннннн272x192.jpg" crc="86013448" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонффон285x197.jpg" crc="4101999543" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фффффффффффоннннанаа-crop-u13906.jpg" crc="388017648" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижения308x224.jpg" crc="428941560" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижениячяяяяяяяяяяяяяяяяяяяя-crop-u13924.jpg" crc="327943044" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="проет мама-crop-u13904.jpg" crc="360330816" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="сертификат ребенок-crop-u13916.jpg" crc="4163700046" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фон кр317x224.jpg" crc="11835427" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннйуйу275x194.jpg" crc="350793945" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="главная-crop-u13908.jpg" crc="183563090" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фффффффффффоннннанаа56x37.jpg" crc="3835883469" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="обратная свщь49x35.jpg" crc="4167818073" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннннннн49x35.jpg" crc="289974887" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонффон51x36.jpg" crc="3774777223" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижения46x34.jpg" crc="221501379" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижениячяяяяяяяяяяяяяяяяяяяя.jpg" crc="25034377" seo="true" ref="phone>фотоальбом:фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="проет мама36x33.jpg" crc="477839629" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="сертификат ребенок26x33.jpg" crc="3904257790" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фон кр49x35.jpg" crc="3882523793" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннйуйу50x35.jpg" crc="424428136" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="главная55x37.jpg" crc="117095652" seo="true" ref="phone>фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="u14265-4.png" crc="417399017" ref="phone>для-родителей"/>
+    <file name="u14267-4.png" crc="374977721" ref="phone>для-родителей"/>
+    <file name="u14270-4.png" crc="123310398" ref="phone>для-родителей"/>
+    <file name="глаааааааааааааав-u18824-fr.jpg" crc="4083246855" ref="phone>обратная-связь"/>
+    <file name="u14309.png" crc="305725131" ref="phone>обратная-связь"/>
+    <file name="u14309-ferr.png" crc="3999864145" ref="phone>обратная-связь"/>
+    <file name="u14317.png" crc="338949208" ref="phone>обратная-связь"/>
+    <file name="u14317-ferr.png" crc="4117963948" ref="phone>обратная-связь"/>
+    <file name="u14305.png" crc="3920861344" ref="phone>обратная-связь"/>
+    <file name="u14305-ferr.png" crc="4177030838" ref="phone>обратная-связь"/>
+    <file name="u14359-4.png" crc="266897424" ref="phone>отзывы"/>
+    <file name="мама.png" crc="3866858534" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u214-4.png" crc="260433482" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u207-4.png" crc="3927482912" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u513.png" crc="4286877711" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u513-m.png" crc="4137564322" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u559.png" crc="437184820" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u559-m.png" crc="271548857" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u253-4.png" crc="4227003660" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u615-4.png" crc="3877291980" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u702.png" crc="3908899387" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u702-m.png" crc="4059892976" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u747.png" crc="509349242" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u747-m.png" crc="3805473717" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u423-4.png" crc="450624599" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u465-4.png" crc="3814567174" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u1247-4.png" crc="3977422307" ref="index:наша-группа:методическая-копилка:наши-достижения:обратная-связь:фотоальбом:новости:для-родителей:рекомендации:информация:отзывы"/>
+    <file name="u18831-10.png" crc="445847393" ref="index"/>
+    <file name="u14871-6.png" crc="3973530391" ref="index"/>
+    <file name="u16447.png" crc="4144550633" ref="index"/>
+    <file name="u16447-r.png" crc="4144550633" ref="index"/>
+    <file name="u16447-m.png" crc="4116449640" ref="index"/>
+    <file name="u16447-a.png" crc="214724531" ref="index"/>
+    <file name="u16441.png" crc="79884779" ref="index"/>
+    <file name="u16441-r.png" crc="79884779" ref="index"/>
+    <file name="u16441-m.png" crc="4175590791" ref="index"/>
+    <file name="u16441-a.png" crc="3895692463" ref="index"/>
+    <file name="u16443-12.png" crc="9140739" ref="index"/>
+    <file name="u16449.png" crc="4089102473" ref="index"/>
+    <file name="u16449-r.png" crc="4089102473" ref="index"/>
+    <file name="u16449-m.png" crc="384069056" ref="index"/>
+    <file name="u16449-a.png" crc="16154261" ref="index"/>
+    <file name="1.png" crc="5373864" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.jpg" crc="3801979510" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3-crop-u18043.png" crc="73566830" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4-crop-u18069.png" crc="3964667984" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="5.png" crc="3884387298" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="6-crop-u18121.jpg" crc="4281551728" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7.png" crc="146147556" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.png" crc="4194647322" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.jpg" crc="3957934365" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.png" crc="135060568" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11-crop-u18251.png" crc="3867688229" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.png" crc="4247376705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1345-4.png" crc="3927440991" ref="наша-группа"/>
+    <file name="u1351-4.png" crc="357982616" ref="наша-группа"/>
+    <file name="u1355-4.png" crc="251209307" ref="наша-группа"/>
+    <file name="глаааааааааааааав.jpg" crc="4249283625" ref="обратная-связь">
+      <caption webpage="обратная-связь" alt=""/>
+    </file>
+    <file name="u880.png" crc="419108570" ref="обратная-связь"/>
+    <file name="u880-ferr.png" crc="335071946" ref="обратная-связь"/>
+    <file name="u890.png" crc="140582835" ref="обратная-связь"/>
+    <file name="u890-ferr.png" crc="3960878120" ref="обратная-связь"/>
+    <file name="u892.png" crc="4246348604" ref="обратная-связь"/>
+    <file name="u892-ferr.png" crc="531005390" ref="обратная-связь"/>
+    <file name="u9727-4.png" crc="3959329863" ref="фотоальбом"/>
+    <file name="u9730-4.png" crc="3788750282" ref="фотоальбом"/>
+    <file name="фффффффффффоннннанаа.jpg" crc="3892458903" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="обратная свщь.jpg" crc="226227038" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннннннн.jpg" crc="4278815158" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонффон.jpg" crc="4250701970" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижения.jpg" crc="4110134675" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="проет мама.jpg" crc="4009236523" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="сертификат ребенок.jpg" crc="3977310483" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фон кр.jpg" crc="279330933" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннйуйу.jpg" crc="350793945" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="главная.jpg" crc="270554113" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фффффффффффоннннанаа-crop-u9775.jpg" crc="3975380532" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="обратная свщь74x52.jpg" crc="11691852" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннннннн74x53.jpg" crc="532379183" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонффон78x54.jpg" crc="4148905544" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фффффффффффоннннанаа-crop-u10266.jpg" crc="3975380532" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижения70x51.jpg" crc="220624772" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="наши достижениячяяяяяяяяяяяяяяяяяяяя-crop-u10306.jpg" crc="283032808" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="проет мама44x41.jpg" crc="4019225052" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="сертификат ребенок32x41.jpg" crc="178648676" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фон кр74x53.jpg" crc="6588076" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="фонннйуйу75x53.jpg" crc="475373946" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="главная-crop-u10107.jpg" crc="502231914" seo="true" ref="фотоальбом">
+      <caption webpage="фотоальбом" alt=""/>
+    </file>
+    <file name="u7688-4.png" crc="417399017" ref="для-родителей"/>
+    <file name="u8996-4.png" crc="374977721" ref="для-родителей"/>
+    <file name="u9002-4.png" crc="123310398" ref="для-родителей"/>
+    <file name="u1263-4.png" crc="172247123" ref="отзывы"/>
+    <file name="u18374-8.png" crc="531602042" ref="phone>index"/>
+    <file name="u16446-8.png" crc="4043678553" ref="index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="4218086163" ref="phone>для-родителей:phone>рекомендации:phone>index:phone>информация:phone>наша-группа:phone>наши-достижения:phone>фотоальбом:phone>обратная-связь:phone>новости:phone>отзывы:phone>методическая-копилка"/>
+      <file name="___-_________.css" crc="489018216" ref="phone>для-родителей"/>
+      <file name="____________.css" crc="106377968" ref="phone>рекомендации"/>
+      <file name="index.css" crc="3770639616" ref="phone>index"/>
+      <file name="__________1.css" crc="106377968" ref="phone>информация"/>
+      <file name="____-______.css" crc="112832220" ref="phone>наша-группа"/>
+      <file name="____-__________.css" crc="106377968" ref="phone>наши-достижения"/>
+      <file name="__________.css" crc="3851874165" ref="phone>фотоальбом"/>
+      <file name="________-_____.css" crc="3806886304" ref="phone>обратная-связь"/>
+      <file name="_______.css" crc="106377968" ref="phone>новости"/>
+      <file name="______.css" crc="164058691" ref="phone>отзывы"/>
+      <file name="____________-_______.css" crc="106377968" ref="phone>методическая-копилка"/>
+    </folder>
+    <file name="index.html" crc="4091168113" seo="true" mt="1536305368539" redirect="true"/>
+    <file name="наша-группа.html" crc="3876151362" seo="true" mt="1519705073071" redirect="true"/>
+    <file name="фотоальбом.html" crc="3797763802" seo="true" mt="1519704956655" redirect="true"/>
+    <file name="новости.html" crc="4101876043" seo="true" mt="1519704372316" redirect="true"/>
+    <file name="методическая-копилка.html" crc="4247457961" seo="true" mt="1519704372316" redirect="true"/>
+    <file name="для-родителей.html" crc="4242289198" seo="true" mt="1519705039572" redirect="true"/>
+    <file name="рекомендации.html" crc="4121871960" seo="true" mt="1519704372316" redirect="true"/>
+    <file name="информация.html" crc="4218677443" seo="true" mt="1519704372316" redirect="true"/>
+    <file name="наши-достижения.html" crc="4244988141" seo="true" mt="1519704372316" redirect="true"/>
+    <file name="обратная-связь.html" crc="60594370" seo="true" mt="1519843366207" redirect="true"/>
+    <file name="отзывы.html" crc="52526720" seo="true" mt="1519704372316" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3843344074" seo="true" mt="1520149667790" redirect="true"/>
+  <file name="наша-группа.html" crc="26566585" seo="true" mt="1520421635489" redirect="true"/>
+  <file name="методическая-копилка.html" crc="422091811" seo="true" mt="1519925308738" redirect="true"/>
+  <file name="наши-достижения.html" crc="4040581646" seo="true" mt="1519925308738" redirect="true"/>
+  <file name="обратная-связь.html" crc="481448712" seo="true" mt="1519926117247" redirect="true"/>
+  <file name="фотоальбом.html" crc="3891542969" seo="true" mt="1519925871779" redirect="true"/>
+  <file name="новости.html" crc="4042074700" seo="true" mt="1519925308738" redirect="true"/>
+  <file name="для-родителей.html" crc="4289569194" seo="true" mt="1519925975089" redirect="true"/>
+  <file name="рекомендации.html" crc="25499442" seo="true" mt="1519925308738" redirect="true"/>
+  <file name="информация.html" crc="4261783547" seo="true" mt="1519925308738" redirect="true"/>
+  <file name="отзывы.html" crc="4209938193" seo="true" mt="1519925308738" redirect="true"/>
+</manifest>
